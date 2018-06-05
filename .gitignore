@@ -1,8 +1,11 @@
 # Java:
 *.class
+*.bat
 .gradle
 .DS_Store
 .idea
+gradle
+gradlew
 build
 out
 

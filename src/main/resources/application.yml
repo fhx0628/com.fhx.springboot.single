@@ -21,6 +21,10 @@ spring:
     host: 127.0.0.1
     username: admin
     password: admin
+    listener:
+      retry:
+        enable: true
+        max-attemp: 5
 
 rabbitmq:
   config:
