@@ -1,0 +1,6 @@
+# Java:
+*.class
+.gradle
+build
+out
+
