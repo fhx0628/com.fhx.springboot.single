@@ -1,0 +1,40 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  security:
+      enabled: false
+
+spring:
+  boot:
+    admin:
+      client:
+        url: "http://127.0.0.1:8081"
+  rabbitmq:
+    port: 5672
+    host: 127.0.0.1
+    username: admin
+    password: admin
+
+rabbitmq:
+  config:
+    queue:
+      direct:
+        exchange:
+          name: exchange.info
+          info:
+            name: log.info
+            routing:
+              name: log.info.routing
+              key: log.info.routing.key
+          error:
+            name: error.info
+            routing:
+              name: log.error.routing
+              key: log.error.routing.key
