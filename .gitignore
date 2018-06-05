@@ -1,6 +1,8 @@
 # Java:
 *.class
 .gradle
+.DS_Store
+.idea
 build
 out
 

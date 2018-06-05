@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6270df9c-5530-43dc-85a4-e52380d21c5a" name="Default" comment="" />
+    <list default="true" id="6270df9c-5530-43dc-85a4-e52380d21c5a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/SingleApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/domain/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/domain/product/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/domain/productwithexception/ExceptionAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/domain/productwithexception/ProductWithException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/domain/productwithexception/ProductWithExceptionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/domain/wellcom/WellcomController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/myservlet/MyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/myservlet/MyServlet2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/direct/DirectReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/direct/DirectSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/fanout/FanoutConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverWithAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/fanout/FanoutSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/helloworld/HelloWorldReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/helloworld/HelloWorldSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/helloworld/RabbitConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/topic/TopicReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/topic/TopicReceiverError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/topic/TopicSenderError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/rabbitmq/topic/TopicSenderInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/fhx/springboot/single/swagger/SwaggerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fhx/springboot/single/rabbitmq/direct/DirectReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fhx/springboot/single/rabbitmq/helloworld/HelloWorldReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/fhx/springboot/single/rabbitmq/topic/TopicReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/spring-boot-single-0.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.fhx.springboot.single.rabbitmq.helloworld.ReceiverTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.fhx.springboot.single.rabbitmq.helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.fhx.springboot.single.rabbitmq.helloworld.ReceiverTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/SingleApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/domain/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/domain/product/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/domain/productwithexception/ExceptionAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/domain/productwithexception/ProductWithException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/domain/productwithexception/ProductWithExceptionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/domain/wellcom/WellcomController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/myservlet/MyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/myservlet/MyServlet2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/direct/DirectReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/direct/DirectSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/fanout/FanoutConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverWithAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/fanout/FanoutSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/helloworld/HelloWorldReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/helloworld/HelloWorldSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/helloworld/RabbitConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/topic/TopicReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/topic/TopicReceiverError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/topic/TopicSenderError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/rabbitmq/topic/TopicSenderInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fhx/springboot/single/swagger/SwaggerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/fhx/springboot/single/rabbitmq/direct/DirectReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/fhx/springboot/single/rabbitmq/helloworld/HelloWorldReceiverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/fhx/springboot/single/rabbitmq/topic/TopicReceiverTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -104,15 +187,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopicReceiverError.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/topic/TopicReceiverError.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FanoutReceiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,7 +212,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverWithAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,11 +220,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
+            <state relative-caret-position="300">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -175,6 +258,9 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/domain/wellcom</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -406,7 +492,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4583951371000" />
+        <entry key="$PROJECT_DIR$" value="4584144255000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="248472923" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3381783113" />
@@ -466,7 +552,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/Application" />
         <option value="$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/domain/product/WellcomController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/domain/wellcom/WellcomController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/domain/product/Product.java" />
@@ -517,6 +602,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/topic/TopicReceiverError.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverWithAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/direct/DirectReceiver.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -526,6 +612,7 @@
     <option name="width" value="1377" />
     <option name="height" value="837" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -890,12 +977,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43905637" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43905637" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32896462" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981844" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32896462" />
       <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.1416122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -908,7 +996,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32896462" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896462" />
     </layout>
   </component>
@@ -921,13 +1008,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="82" selection-start-line="35" selection-start-column="82" selection-end-line="35" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/domain/product/WellcomController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/domain/product/Product.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1288,7 +1368,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fhx/springboot/single/rabbitmq/fanout/FanoutReceiverWithAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1297,8 +1377,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
+        <state relative-caret-position="300">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
