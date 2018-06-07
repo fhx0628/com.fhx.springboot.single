@@ -12,6 +12,8 @@ management:
       enabled: false
 
 spring:
+  application:
+    name: springboot.single
   boot:
     admin:
       client:
@@ -42,3 +44,11 @@ rabbitmq:
             routing:
               name: log.error.routing
               key: log.error.routing.key
+
+eureka:
+  instance:
+    hostman: eureka.consumer
+  client:
+    serviceUrl:
+      defaultZone: "http://localhost:8762/eureka/"
+
